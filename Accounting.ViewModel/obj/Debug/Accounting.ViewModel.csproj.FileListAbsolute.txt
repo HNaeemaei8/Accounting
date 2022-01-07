@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache

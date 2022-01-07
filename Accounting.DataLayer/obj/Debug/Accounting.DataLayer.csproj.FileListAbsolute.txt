@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\bin\Debug\Accounting.ViewModel.dll
+C:\Users\Lenovo\source\repos\Axxounting.App\Accounting.DataLayer\bin\Debug\Accounting.ViewModel.pdb

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Accounting_DbModelStoreContainer" CdmEntityContainer="Accounting_DbEntities">
+    <EntitySetMapping Name="Accountings">
+      <EntityTypeMapping TypeName="Accounting_DbModel.Accounting">
+        <MappingFragment StoreEntitySet="Accounting">
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="TypeId" ColumnName="TypeId" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AccountingTypes">
+      <EntityTypeMapping TypeName="Accounting_DbModel.AccountingType">
+        <MappingFragment StoreEntitySet="AccountingTypes">
+          <ScalarProperty Name="TypeTitle" ColumnName="TypeTitle" />
+          <ScalarProperty Name="TypeId" ColumnName="TypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="Accounting_DbModel.Customer">
+        <MappingFragment StoreEntitySet="Customers">
+          <ScalarProperty Name="CustomerImage" ColumnName="CustomerImage" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Logins">
+      <EntityTypeMapping TypeName="Accounting_DbModel.Login">
+        <MappingFragment StoreEntitySet="Login">
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UseName" ColumnName="UseName" />
+          <ScalarProperty Name="LoginId" ColumnName="LoginId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
